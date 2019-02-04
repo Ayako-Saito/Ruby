@@ -2,9 +2,8 @@ class Kabu
   @@name = "ABC"
 
   def self.companyname
-    p "ABC"
+    p @@name
   end
 end
 
-Kabu.new
 Kabu.companyname
