@@ -29,5 +29,7 @@
 # puts n / m
 
 ## 入力した数字を3桁にする 例：12 ⇨ 012
-n = gets.to_i
-puts sprintf("%03d",n)
+# n = gets.to_i
+# puts sprintf("%03d",n)
+
+puts("Hello World")
